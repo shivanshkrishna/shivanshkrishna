@@ -54,10 +54,18 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Hospital Management System Software<br><br>🌱 I’m currently learning DevOps and MERN stack<br><br>💬 Ask me about React and Backend Technologies<br><br>📫 How to reach me - shivanshkrishna204@gmail.com</p>
+<p align="left">
+  🔭 I’m currently working on Hospital Management System Software<br><br>
+  🌱 I’m currently learning DevOps and MERN stack<br><br>
+  💬 Ask me about React and Backend Technologies<br><br>
+  👨‍💻 Interested in the tech relations between servers and clients, while navigating between petri dishes and cookies as a Bioinformatics student at IILM University<br><br>
+
+  📫 How to reach me - shivanshkrishna204@gmail.com
+</p>
+
 
 ###
 
-<img align="left" height="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa1S-0Xs-931k56qsL-REAhF0OzRlfxUjgPYFzV6HgkQ&s"  />
+<img align="left" height="" src="https://cdn4.iconfinder.com/data/icons/male-occupation-avatar-1/64/Programmer-Coding-Avatar-Occupation-Man-512.png"  />
 
 ###
