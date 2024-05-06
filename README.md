@@ -5,18 +5,6 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/shivanshkrishna" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="shivanshkrishna" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="iamshivanshkrishna" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
 ###
 
 <div align="center">
@@ -58,7 +46,7 @@
   🔭 I’m currently working on Hospital Management System Software<br><br>
   🌱 I’m currently learning DevOps and MERN stack<br><br>
   💬 Ask me about React and Backend Technologies<br><br>
-  👨‍💻 Interested in the tech relations between servers and clients, while navigating between petri dishes and cookies as a Bioinformatics student at IILM University<br><br>
+  👨‍💻 Interested in the tech relations between servers and clients, while navigating between petri dishes and cookies as a Btech Bioinformatics student at IILM University , Delhi ,India<br><br>
 
   📫 How to reach me - shivanshkrishna204@gmail.com
 </p>
