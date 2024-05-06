@@ -46,7 +46,7 @@
   🔭 I’m currently working on Hospital Management System Software<br><br>
   🌱 I’m currently learning DevOps and MERN stack<br><br>
   💬 Ask me about React and Backend Technologies<br><br>
-  👨‍💻 Interested in the tech relations between servers and clients, while navigating between petri dishes and cookies as a Btech Bioinformatics student at IILM University , Delhi ,India<br><br>
+  👨‍💻 Interested in the tech relations between servers and clients, while navigating between petri dishes and cookies as a Btech Bioinformatics student at IILM University , Delhi , India<br><br>
 
   📫 How to reach me - shivanshkrishna204@gmail.com
 </p>
