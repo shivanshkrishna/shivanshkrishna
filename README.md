@@ -8,18 +8,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/shivanshkrishna/count.svg?"  />
-</div>
 
-###
 
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shivanshkrishna&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -39,17 +29,18 @@
 
 ###
 
-<h1 align="left">Hi 👋, I'm Shivansh Krishna<br>A passionate MERN Stack developer from India</h1>
+<h1 align="left">Hi 👋, I'm Shivansh Krishna</h1>
+<h3 align="left">Business Analyst | MERN Stack Developer</h3>
 
 ###
 
 <p align="left">
-  🌱 I’m currently learning MERN stack<br><br>
-  💬 Ask me about React and Backend Technologies<br><br>
-  👨‍💻 Interested in the tech relations between servers and clients, while navigating between petri dishes and cookies as a Btech Bioinformatics student at IILM University , Delhi , India<br><br>
-
-  📫 How to reach me - shivanshkrishna204@gmail.com
+  🌱 Currently exploring how Business Analytics skills can be applied in the tech domain<br><br>
+  💬 Ask me about React, Node.js, and Backend Technologies<br><br>
+  👨‍💻 Passionate about bridging the gap between servers and clients, while pursuing my B.Tech in Bioinformatics at IILM University, Delhi, India<br><br>
+  📫 Reach me at: <a href="mailto:shivanshkrishna204@gmail.com">shivanshkrishna204@gmail.com</a>
 </p>
+
 
 
 ###
